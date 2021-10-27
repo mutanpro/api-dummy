@@ -1,8 +1,6 @@
 
 {
- 
-  "status": true,
-  
+  "status": true, 
   "data":[
    {
     "id_usaha": "1",
@@ -13,5 +11,4 @@
     "nama": "Faza Mulya Sanusi"
   }
  ]
-  
 }
