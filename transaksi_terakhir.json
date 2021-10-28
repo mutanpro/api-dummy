@@ -1,0 +1,14 @@
+{
+"status":true,
+  "data":[
+    "2021-10":[{
+    "tanggal":"2021-10-28"
+    "nm_taransaksi":"Pembelian Domain",
+    "jumlah":1000000
+    },"2021-11":[{
+    "tanggal":"2021-11-21"
+    "nm_taransaksi":"Pembelian Domain2",
+    "jumlah":1000000
+    },]
+  ]
+}
