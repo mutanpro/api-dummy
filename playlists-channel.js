@@ -7,7 +7,7 @@
                         "clearkey": { "keyId": "8bcfc55359e24bd7ad1c5560a96ddd3c", "key": "b5dcf721ab522af92a9d3bf0bd55b596" }
                     },
                     "label": "0"
-                }
+                },
     {
       "file": "https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd",
       "title": "SSC 5",
