@@ -1,5 +1,12 @@
 [
     {
+        "title": "True Premier Football",
+        "default": false,
+        "type": "dash",
+        "file": "https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd",
+        "label": "0"
+    },
+    {
         "title": "SPORT TV 1",
         "type": "dash",
         "file": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)",
