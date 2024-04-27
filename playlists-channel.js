@@ -1,5 +1,4 @@
 [
-  [
     {
       file: "https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
       title: "SSC",
@@ -18,17 +17,4 @@
       },
       label: "0"
     }
-  ],
-  [
-    {
-      file: "https://example.com/playlist3.m3u8",
-      title: "Playlist 3",
-      type: "hls"
-    },
-    {
-      file: "https://example.com/playlist4.m3u8",
-      title: "Playlist 4",
-      type: "hls"
-    }
   ]
-]
