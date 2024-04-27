@@ -58,7 +58,6 @@
         },
         "label": "0"
     },
-
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
         "title": "HD 2"
