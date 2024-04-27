@@ -1,7 +1,6 @@
 [
     {
         "title": "True Premier Football",
-        "default": false,
         "type": "dash",
         "file": "https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd",
         "label": "0"
