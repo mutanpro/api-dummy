@@ -1,4 +1,11 @@
-[{
+[
+    {
+
+        "type": "dash",
+        "file": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)",
+        "label": "0"
+      },
+    {
         "title": "SSC 2",
         "type": "dash",
         "file": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
