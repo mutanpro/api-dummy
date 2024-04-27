@@ -58,6 +58,20 @@
         },
         "label": "0"
     },
+     {
+        "file": "https://cdn-675234.maedasports.co.id:3002/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd",
+        "title": "Optus",
+        "type": "dash",
+        "drm": {
+            "clearkey": {
+                "keyId": "c88b512b17ab4f6cb09eb0ff4a1056ed",
+                "key": "adc08ee1c20a734972a55c9aebbd1888"
+            }
+        },
+        "label": "0"
+    },
+
+    
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
         "title": "HD 2"
