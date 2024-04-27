@@ -6,11 +6,11 @@
         "label": "0"
       },
       {
-        "title": "ELEVEN 1",
+        "title": "Dazn F1",
         "type": "dash",
-        "file": "https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd",
+        "file": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
         "drm": {
-            "clearkey": { "keyId": "82f8e2a17dac44c0a18f660479349c59", "key": "1b144f73e6fefe91cd05f850e2b589d0" }
+            "clearkey": { "keyId": "1061be12d303247426ec25e8369b2647", "key": "bd622b0e610295de3b0bccb850ccaaaa" }
         },
         "label": "0"
     },
@@ -50,5 +50,8 @@
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
         "title": "HD 2"
+    },{
+        "url": "https://sportsonline.si/channels/pt/eleven1.php",
+        "title": "ELEVEN 1"
     }
 ]
