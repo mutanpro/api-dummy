@@ -1,5 +1,10 @@
 [
     {
+        "title": "MU TV",
+        "file": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+        "label": "0"
+    },
+    {
         "title": "True Premier Football",
         "type": "dash",
         "file": "https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd",
