@@ -61,7 +61,7 @@
      {
         "file": "https://cdn-675234.maedasports.co.id:1001/5/CH4/masterCH4.mpd",
         "title": "MALAYSIA",
-        "type": "dash",
+        "type": "drm_key",
         "key": {
             "ce247fb899cf4f28a5011e18069c8772": "b4f129a44ebad64ba25475fd2faeb032"
         },
