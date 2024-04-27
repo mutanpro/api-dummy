@@ -58,12 +58,7 @@
         },
         "label": "0"
     },
-        {
-        "file": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
-        "title": "DAZN",
-        "type": "drm_key",
-        "label": "0"
-    },
+
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
         "title": "HD 2"
