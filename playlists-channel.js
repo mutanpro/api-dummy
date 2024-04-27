@@ -62,9 +62,6 @@
         "file": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
         "title": "DAZN",
         "type": "drm_key",
-        "key": {
-        'd27104d427e4f87e75b19395a9f8796b': a0_0x51f98d(0x30f)
-    },
         "label": "0"
     },
     {
