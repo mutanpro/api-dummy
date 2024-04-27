@@ -59,14 +59,11 @@
         "label": "0"
     },
      {
-        "file": "https://cdn-675234.maedasports.co.id:3002/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd",
-        "title": "Optus",
+        "file": "https://cdn-675234.maedasports.co.id:1001/5/CH4/masterCH4.mpd",
+        "title": "MALAYSIA",
         "type": "dash",
-        "drm": {
-            "clearkey": {
-                "keyId": "c88b512b17ab4f6cb09eb0ff4a1056ed",
-                "key": "adc08ee1c20a734972a55c9aebbd1888"
-            }
+        "key": {
+            "ce247fb899cf4f28a5011e18069c8772": "b4f129a44ebad64ba25475fd2faeb032"
         },
         "label": "0"
     },
