@@ -47,6 +47,17 @@
         "label": "0"
     },
     {
+        "title": "SSC Extra 1",
+        "type": "dash",
+        "file": "https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "ecbc9e6fe6b145efb6658fb5cf7427f8",
+                "key": "03c17e28911f71221acbc0b11f900401"
+            }
+        },
+        "label": "0"
+    }, {
         "title": "SSC Extra 3",
         "type": "dash",
         "file": "https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd",
