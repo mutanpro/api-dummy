@@ -339,12 +339,39 @@
             }
         },
         "label": "0"
-    }, {
+    },
+    {
         "title": "Arena Sport 4",
         "type": "dash",
         "file": "https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
         "drm": {
-            "clearkey": { "keyId": "c18b6aa739be4c0b774605fcfb5d6b68", "key": "e41c3a6f7532b2e3a828d9580124c89d" }
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        },
+        "label": "0"
+    },
+    {
+        "title": "Arena Sport 5",
+        "type": "dash",
+        "file": "https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
+        },
+        "label": "0"
+    }, {
+        "title": "Arena Sport 6",
+        "type": "dash",
+        "file": "https://webtvstream.bhtelecom.ba/hls6/arena6.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c18b6aa739be4c0b774605fcfb5d6b68",
+                "key": "e41c3a6f7532b2e3a828d9580124c89d"
+            }
         },
         "label": "0"
     },
