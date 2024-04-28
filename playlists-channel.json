@@ -130,6 +130,14 @@
             }
         },
         "label": "0"
+    },{
+        "title": "Sky Sports Premier",
+        "type": "dash",
+        "file": "https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd",
+        "drm": {
+            "clearkey": { "keyId": "0005e6237bc7c7a273c82a1b86b457c8", "key": "0783c788b5a8b7be6c77b13525a10eb8" }
+        },
+        "label": "0"
     },
 
 
