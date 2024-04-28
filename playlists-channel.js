@@ -58,15 +58,15 @@
         },
         "label": "0"
     },
-     {
-        "file": "https://cdn-675234.maedasports.co.id:1001/5/CH4/masterCH4.mpd",
-        "title": "MALAYSIA",
-        "type": "drm_key",
-        "key": {
-            "ce247fb899cf4f28a5011e18069c8772": "b4f129a44ebad64ba25475fd2faeb032"
-        },
-        "label": "0"
-    },
+                  {
+                      "title": "USA TV"
+                    "type": "dash",
+                    "file": 'https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd?',
+                    "drm": {
+                        "clearkey": { "keyId": "882c9f5613b43b47adc70aa968a308ce", "key": "de534ef8914bfe62ba3cdd6bdb9e1c04" }
+                    },
+                    "label": "0"
+                },
 
     
     {
