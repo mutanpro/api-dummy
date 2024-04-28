@@ -277,6 +277,14 @@
         "url": "https://go.now.net.eu.org/voxtv/live?embed=plays1be&type=m",
         "title": "Play Sport 1"
     }, {
+        "url": "https://go.now.net.eu.org/voxtv/live?embed=plays2be&type=m",
+        "title": "Play Sport 2"
+    }, {
+        "url": "https://go.now.net.eu.org/voxtv/live?embed=plays3be&type=m",
+        "title": "Play Sport 3"
+    },
+
+    {
         "url": "https://sportsonline.si/channels/pt/eleven1.php",
         "title": "ELEVEN 1"
     },
