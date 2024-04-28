@@ -225,6 +225,11 @@
         "type": "dash",
         "file": "https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd",
         "label": "0"
+    }, {
+        "title": "True Sport 7",
+        "type": "dash",
+        "file": "https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/THD7/manifest.mpd",
+        "label": "0"
     },
     {
         "title": "SPORT TV 1",
