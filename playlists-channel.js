@@ -1,5 +1,4 @@
-[
-    {
+[{
         "title": "MU TV",
         "file": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
         "label": "0"
@@ -88,6 +87,15 @@
         },
         "label": "0"
     },
+
+    {
+        "title": "SPORT TV 1",
+        "type": "dash",
+        "file": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)",
+        "label": "0"
+    },
+
+
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
         "title": "HD 2"
