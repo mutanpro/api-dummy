@@ -67,7 +67,15 @@
                     },
                     "label": "0"
                 },
-
+{
+                 "title": "ESPN "
+                    "type": "dash",
+                    "file": 'https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd',
+                    "drm": {
+                        "clearkey": { "keyId": "4c230dbc7f6a4bfa6ad0aa73ff792374", "key": "4186a7c2a15f590a9399886feaec4257" }
+                    },
+                    "label": "0"
+                },
     
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
