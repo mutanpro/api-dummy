@@ -270,7 +270,7 @@
         "label": "0"
     },
     {
-        "title": "Arena Sport 1",
+        "title": "Arena 1 Premium",
         "type": "dash",
         "file": "https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd",
         "drm": {
@@ -282,7 +282,7 @@
         "label": "0"
     },
     {
-        "title": "Arena Sport 2",
+        "title": "Arena 2 Premium",
         "type": "dash",
         "file": "https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd",
         "drm": {
@@ -293,7 +293,7 @@
         },
         "label": "0"
     }, {
-        "title": "Arena Sport 3",
+        "title": "Arena 3 Premium",
         "type": "dash",
         "file": "https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd",
         "drm": {
