@@ -397,6 +397,39 @@
             }
         },
         "label": "0"
+    }, {
+        "title": "TSN 3",
+        "type": "dash",
+        "file": "https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "c0f378ad54e14a9c85a3d8c986d2a51f",
+                "key": "5e1d040743ff78715e464ffb905e68a9"
+            }
+        },
+        "label": "0"
+    }, {
+        "title": "TSN 4",
+        "type": "dash",
+        "file": "https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "f0a2efd11e0643c3a45d6f67d02f1a97",
+                "key": "85bf4469003bd28f01ea4fefedd5a431"
+            }
+        },
+        "label": "0"
+    }, {
+        "title": "TSN 5",
+        "type": "dash",
+        "file": "https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "cb57741a1cee422690c6294a06eb1320",
+                "key": "7a0cfd493df6ef7cc0d0bb3ad95cec8c"
+            }
+        },
+        "label": "0"
     },
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
