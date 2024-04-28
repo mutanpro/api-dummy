@@ -98,11 +98,11 @@
     {
         "title": "Premier Sports 1",
         "type": "dash",
-        "file": "https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC",
+        "file": "https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd",
         "drm": {
             "clearkey": {
-                "keyId": "49e2aa7ed50fc98b895023c87a32a183",
-                "key": "57062665c1ef8481911e68e17655c8ec"
+                "keyId": "0005c39c431ca0c67e42e3b09e5552a6",
+                "key": "f71223934ebbc7290e6dfc05988d47d2"
             }
         },
         "label": "0"
