@@ -182,7 +182,9 @@
             }
         },
         "label": "0"
-    }, {
+    },
+
+    {
         "title": "TNT Sport 3",
         "type": "dash",
         "file": "https://cors-proxy.elfsight.com/https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
@@ -190,6 +192,17 @@
             "clearkey": {
                 "keyId": "4e993aa8c1f295f8b94e8e9e6f6d0bfe",
                 "key": "86a1ed6e96caab8eb1009fe530d2cf4f"
+            }
+        },
+        "label": "0"
+    }, {
+        "title": "TNT Sport 4",
+        "type": "dash",
+        "file": "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "e31a5a81caff5d07ea2411a571fc2e59",
+                "key": "96c5ef69479732ae734f962748c19729"
             }
         },
         "label": "0"
