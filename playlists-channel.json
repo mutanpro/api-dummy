@@ -216,7 +216,12 @@
         "label": "0"
     },
     {
-        "title": "True Premier Football",
+        "title": "True Premier Football 1",
+        "type": "dash",
+        "file": "https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/manifest.mpd",
+        "label": "0"
+    }, {
+        "title": "True Premier Football 2",
         "type": "dash",
         "file": "https://cors-proxy.pulsesoftware.com/https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/manifest.mpd",
         "label": "0"
