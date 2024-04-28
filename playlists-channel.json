@@ -106,7 +106,8 @@
             }
         },
         "label": "0"
-    }, {
+    },
+     {
         "title": "Premier Sports 2",
         "type": "dash",
         "file": "https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd",
@@ -114,6 +115,18 @@
             "clearkey": {
                 "keyId": "00051b444166784a94fd9880e2f112da",
                 "key": "def3adcb16de2daa9eaa8f20557fb1c1"
+            }
+        },
+        "label": "0"
+    }, 
+    {
+        "title": "Sky Sports Football",
+        "type": "dash",
+        "file": "https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00058250a3379de8bc837253d41fb434",
+                "key": "f0dfa2c26f12eaf2c9b3c5a4a4f15a86"
             }
         },
         "label": "0"
