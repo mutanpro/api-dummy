@@ -61,7 +61,7 @@
                   {
                       "title": "USA TV"
                     "type": "dash",
-                    "file": 'https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd?',
+                    "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd?",
                     "drm": {
                         "clearkey": { "keyId": "882c9f5613b43b47adc70aa968a308ce", "key": "de534ef8914bfe62ba3cdd6bdb9e1c04" }
                     },
@@ -70,7 +70,7 @@
 {
                  "title": "ESPN "
                     "type": "dash",
-                    "file": 'https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd',
+                    "file": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
                     "drm": {
                         "clearkey": { "keyId": "4c230dbc7f6a4bfa6ad0aa73ff792374", "key": "4186a7c2a15f590a9399886feaec4257" }
                     },
