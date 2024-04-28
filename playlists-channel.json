@@ -269,6 +269,15 @@
         "file": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)",
         "label": "0"
     },
+     {
+        "title": "Arena Sport 1",
+        "type": "dash",
+        "file": "https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd",
+        "drm": {
+            "clearkey": { "keyId": "c18b6aa739be4c0b774605fcfb5d6b68", "key": "e41c3a6f7532b2e3a828d9580124c89d" }
+        },
+        "label": "0"
+    },
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
         "title": "HD 2"
