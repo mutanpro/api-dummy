@@ -142,7 +142,10 @@
             }
         },
         "label": "0"
-    }, {
+    }, 
+    
+    
+    {
         "title": "Sky Sports Main",
         "type": "dash",
         "file": "https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd",
@@ -151,6 +154,16 @@
                 "keyId": "0005403920c26e3aa0c4d81338d2690e",
                 "key": "0931a3d1d36ae95a7fb7e08111aab4b3"
             }
+        },
+        "label": "0"
+    },
+    
+    {
+        "title": "TNT Sport 1",
+        "type": "dash",
+        "file": "https://cors-proxy.elfsight.com/ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+        "drm": {
+            "clearkey": { "keyId": "ae26845bd33038a9c0774a0981007294", "key": "63ac662dde310cfb4cc6f9b43b34196d" }
         },
         "label": "0"
     },
