@@ -106,6 +106,17 @@
             }
         },
         "label": "0"
+    }, {
+        "title": "Premier Sports 2",
+        "type": "dash",
+        "file": "https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "00051b444166784a94fd9880e2f112da",
+                "key": "def3adcb16de2daa9eaa8f20557fb1c1"
+            }
+        },
+        "label": "0"
     },
 
 
