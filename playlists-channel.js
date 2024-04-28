@@ -58,15 +58,7 @@
         },
         "label": "0"
     },
-                  {
-                      "title": "USA TV"
-                    "type": "dash",
-                    "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd?",
-                    "drm": {
-                        "clearkey": { "keyId": "882c9f5613b43b47adc70aa968a308ce", "key": "de534ef8914bfe62ba3cdd6bdb9e1c04" }
-                    },
-                    "label": "0"
-                },
+
 {
                  "title": "ESPN "
                     "type": "dash",
