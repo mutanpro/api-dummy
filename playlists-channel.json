@@ -452,8 +452,8 @@
         "label": "0"
     }, {
         "title": "MUTAN TV",
-        "type": "hls",
-        "file": "https://stream.mutanpro.com/memfs/886baabc-b437-4dc6-bda2-e6be6a80f06f.m3u8",
+        "type": "rtmp",
+        "file": "rtmp://103.172.204.40:1935/live/123",
         "label": "0"
     },
     
