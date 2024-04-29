@@ -1,4 +1,24 @@
-[{
+[
+        
+        {
+        "title": "MUTAN TV",
+        "type": "dash",
+        "file": "http://103.127.133.199:8080/dash/test_src.mpd",
+        "label": "0"
+    },{
+        "title": "MUTAN TV 1",
+        "type": "hls",
+        "file": "http://103.127.133.199:8080/hls/test.m3u8",
+        "label": "0"
+    },
+          {
+        "title": "MUTAN TV 2",
+        "type": "dash",
+        "file": "http://103.172.204.40:8080/dash/test_src.mpd",
+        "label": "0"
+    },
+        
+        {
         "title": "SSC 2",
         "type": "dash",
         "file": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
@@ -450,12 +470,7 @@
             "clearkey": { "keyId": "828e0aba9825c3546a2831e4c0c36f7f", "key": "f85d3dcd38981368ab3da597e97ebdcc" }
         },
         "label": "0"
-    }, {
-        "title": "MUTAN TV",
-        "type": "rtmp",
-        "file": "rtmp://103.172.204.40:1935/live/123",
-        "label": "0"
-    },
+    }, 
     
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
