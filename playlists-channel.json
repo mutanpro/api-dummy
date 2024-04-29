@@ -1,11 +1,6 @@
 [
         
-        {
-        "title": "MUTAN TV",
-        "type": "hls",
-        "file": "http://103.127.133.199:8080/memfs/ec1e03c2-ce37-41a2-af35-b9b5e311e074.m3u8",
-        "label": "0"
-    },
+    
         
         {
         "title": "SSC 2",
@@ -496,5 +491,8 @@
     }, {
         "url": "https://go.now.net.eu.org/yos512/live?embed=eleven6pt&type=m",
         "title": "ELEVEN 6"
+    },    {
+        "title": "MUTAN TV",
+        "url": "https://tv.mutanpro.com/embed/video",
     }
 ]
