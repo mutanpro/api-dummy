@@ -1,8 +1,4 @@
-[
-        
-    
-        
-        {
+[{
         "title": "SSC 2",
         "type": "dash",
         "file": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
@@ -446,16 +442,19 @@
         "label": "0"
     },
 
-     {
+    {
         "title": "MNC TV",
         "type": "dash",
         "file": "https://alpukat-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
         "drm": {
-            "clearkey": { "keyId": "828e0aba9825c3546a2831e4c0c36f7f", "key": "f85d3dcd38981368ab3da597e97ebdcc" }
+            "clearkey": {
+                "keyId": "828e0aba9825c3546a2831e4c0c36f7f",
+                "key": "f85d3dcd38981368ab3da597e97ebdcc"
+            }
         },
         "label": "0"
-    }, 
-    
+    },
+
     {
         "url": "https://sportsonline.si/channels/hd/hd2.php",
         "title": "HD 2"
@@ -491,8 +490,8 @@
     }, {
         "url": "https://go.now.net.eu.org/yos512/live?embed=eleven6pt&type=m",
         "title": "ELEVEN 6"
-    },    {
-        "title": "MUTAN TV",
+    }, {
         "url": "https://tv.mutanpro.com/embed/video",
+        "title": "MUTAN TV"
     }
 ]
