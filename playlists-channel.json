@@ -3,7 +3,7 @@
         {
         "title": "MUTAN TV",
         "type": "dash",
-        "file": "http://103.127.133.199:8080/ec1e03c2-ce37-41a2-af35-b9b5e311e074.m3u8",
+        "file": "http://103.127.133.199:8080/memfs/ec1e03c2-ce37-41a2-af35-b9b5e311e074.m3u8",
         "label": "0"
     },
         
