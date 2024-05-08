@@ -493,9 +493,12 @@
     }, {
         "url": "https://tv.mutanpro.com/embed/video",
         "title": "MUTAN TV"
-    },{
+    }, {
         "url": "https://sportsonline.si/channels/hd/hd4.php",
         "title": "RMC Sport 1"
+    }, {
+        "url": "https://sportsonline.si/channels/hd/hd5.php",
+        "title": "Bein Sports HD"
     },
     {
         "title": "Ziggo Sport Select",
