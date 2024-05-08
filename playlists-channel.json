@@ -501,6 +501,28 @@
         "title": "Bein Sports HD"
     },
     {
+        "title": "RTL Club",
+        "type": "dash",
+        "file": "https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "b53316f32fc93b51a61ba6fdf0bce6c1",
+          "key": "d752d66843a48a6fed64eed8f87adc3e"
+            }
+        },
+        "label": "0"
+    }, {
+        "title": "TV2 Sport 1 Norway",
+        "type": "dash",
+        "file": "https://ch11-hls-live.akamaized.net/out/u/433127.mpd",
+        "drm": {
+            "clearkey": {
+                "keyId": "d12e4c9dc52f4cbab7ac9b2278317e47",
+                "key": "a7987e5b6ec42db68a25486e108ca9f2"
+            }
+        },
+        "label": "0"
+    }, {
         "title": "Ziggo Sport Select",
         "type": "dash",
         "file": "https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd",
