@@ -507,10 +507,16 @@
         "drm": {
             "clearkey": {
                 "keyId": "b53316f32fc93b51a61ba6fdf0bce6c1",
-          "key": "d752d66843a48a6fed64eed8f87adc3e"
+                "key": "d752d66843a48a6fed64eed8f87adc3e"
             }
         },
         "label": "0"
+    }, {
+        "title": "CCTV 5",
+        "url": "https://live.sportsnews.id/p/cctv5.html"
+    }, {
+        "title": "CCTV 5 Plus",
+        "url": "https://live.sportsnews.id/p/cctv-5plus.html"
     }, {
         "title": "TV2 Sport 1 Norway",
         "type": "dash",
@@ -554,11 +560,6 @@
                 "key": "578c2231c526c5e9eb415411e36871bf"
             }
         },
-        "label": "0"
-    }, {
-        "title": "CCTV 5",
-        "type": "hls",
-        "file": "https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8",
         "label": "0"
     }
 ]
