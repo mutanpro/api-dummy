@@ -263,15 +263,12 @@
     },
     {
         "title": "USA TV",
-        "type": "dash",
-        "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd?",
-        "drm": {
-            "clearkey": {
-                "keyId": "882c9f5613b43b47adc70aa968a308ce",
-                "key": "de534ef8914bfe62ba3cdd6bdb9e1c04"
-            }
-        },
-        "label": "0"
+                    "type": "dash",
+                    "file": 'https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd',
+                    "drm": {
+                        "clearkey": { "keyId": "333962e3e1383529867a9a0e28a5e5d1", "key": "5d3fcbed53749ee622ed0e64f31c1cbf" }
+                    },
+                    "label": "0"
     },
     {
         "title": "SPORT TV 2",
