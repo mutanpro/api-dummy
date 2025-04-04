@@ -1,5 +1,16 @@
 [
-                {
+
+                  {
+        "title": "ESPN 2",
+        "type": "dash",
+                    "file": 'https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd',
+                    "drm": {
+                        "clearkey": { "keyId": "a81ee4a694fecd6aa8a682e5024b313c", "key": "6d15568e1dab59e7202ae12e71505185" }
+                    },
+                    "label": "0"
+    },
+  
+  {
         "title": "BT1",
          "type": "dash",
                     "file": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/tracks-v1a1/mono.ts.m3u8",
@@ -531,7 +542,7 @@
         },
         "label": "0"
     },
-        {"title": "Gtv",
+        {"title": "GTV",
                     "default": false,
                     "type": "dash",
                     "file": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
