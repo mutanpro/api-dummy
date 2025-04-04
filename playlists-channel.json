@@ -1,4 +1,15 @@
-[{
+[
+
+                {
+        "title": "Daznes 1",
+         "type": "dash",
+                    "file": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+                    "drm": {
+                        "clearkey": { "keyId": "44dd9cd370b08a868ead115fe84ecfde", "key": "bff19ab0a51cf14e848389b152913fd0" }
+                    },
+                    "label": "0"
+    },
+        {
         "title": "SSC 2",
         "type": "dash",
         "file": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
