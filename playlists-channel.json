@@ -454,61 +454,7 @@
         },
         "label": "0"
     },
-          {
-        "url": "https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=",
-        "title": "RCTI 1"
-    },
-         {
-        "url": "https://live.sportsnews.id/p/rcti.html",
-        "title": "RCTI 2"
-    },
        
-
-    {
-        "url": "https://sportsonline.si/channels/hd/hd2.php",
-        "title": "HD 2"
-    },
-    {
-        "url": "https://go.now.net.eu.org/voxtv/live?embed=plays1be&type=m",
-        "title": "Play Sport 1"
-    }, {
-        "url": "https://go.now.net.eu.org/voxtv/live?embed=plays2be&type=m",
-        "title": "Play Sport 2"
-    }, {
-        "url": "https://go.now.net.eu.org/voxtv/live?embed=plays3be&type=m",
-        "title": "Play Sport 3"
-    },
-
-    {
-        "url": "https://sportsonline.si/channels/pt/eleven1.php",
-        "title": "ELEVEN 1"
-    },
-    {
-        "url": "https://go.now.net.eu.org/yos512/live?embed=eleven2pt&type=m",
-        "title": "ELEVEN 2"
-    },
-    {
-        "url": "https://go.now.net.eu.org/yos512/live?embed=eleven3pt&type=m",
-        "title": "ELEVEN 3"
-    }, {
-        "url": "https://go.now.net.eu.org/yos512/live?embed=eleven4pt&type=m",
-        "title": "ELEVEN 4"
-    }, {
-        "url": "https://go.now.net.eu.org/yos512/live?embed=eleven5pt&type=m",
-        "title": "ELEVEN 5"
-    }, {
-        "url": "https://go.now.net.eu.org/yos512/live?embed=eleven6pt&type=m",
-        "title": "ELEVEN 6"
-    }, {
-        "url": "https://tv.mutanpro.com/embed/video",
-        "title": "MUTAN TV"
-    }, {
-        "url": "https://sportsonline.si/channels/hd/hd4.php",
-        "title": "RMC Sport 1"
-    }, {
-        "url": "https://sportsonline.si/channels/hd/hd5.php",
-        "title": "Bein Sports HD"
-    },
     {
         "title": "RTL Club",
         "type": "dash",
