@@ -570,5 +570,23 @@
             }
         },
         "label": "0"
-    }
+    },
+        {"title": "Gtv",
+                    "default": false,
+                    "type": "dash",
+                    "file": 'https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd',
+                    "drm": {
+                        "clearkey": { "keyId": "88f6c7cbd793374cb5f12d7e26dcd63b", "key": "e82daa7c7bfb03d99327463fdbd37336" }
+                    },
+                    "label": "0"
+                },
+        {"title": "Soccer HD",
+                    "default": false,
+                    "type": "dash",
+                    "file": 'https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd',
+                    "drm": {
+                        "clearkey": { "keyId": "4d38060bf41b3c29df0ec950ece6b5da", "key": "7ee9506b13480491d79b71c062ab5366" }
+                    },
+                    "label": "0"
+                }
 ]
