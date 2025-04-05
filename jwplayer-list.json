@@ -3,8 +3,7 @@
 
   {
             "title": "ESPN",
-            "sources": [
-                {
+          
                     "type": "dash",
                     "file": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
                     "drm": {
