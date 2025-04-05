@@ -2,7 +2,7 @@
 
 
   {
-            "title": "ESPN",  // Default title jika tidak ada parameter title
+            "title": "ESPN",
             "sources": [
                 {
                     "type": "dash",
