@@ -14,13 +14,55 @@
         "label": "0"
       }
     ]
-  }, {
+  },
+  {
+    "title": "Daznes 1",
+    "sources": [
+      {
+        "type": "dash",
+        "file": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+        "drm": {
+          "clearkey": {
+            "keyId": "44dd9cd370b08a868ead115fe84ecfde",
+            "key": "bff19ab0a51cf14e848389b152913fd0"
+          }
+        },
+        "label": "0"
+      }
+    ]
+  },
+  {
+    "title": "USA TV",
+    "sources": [
+      {
+        "type": "dash",
+        "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
+        "drm": {
+          "clearkey": {
+            "keyId": "333962e3e1383529867a9a0e28a5e5d1",
+            "key": "5d3fcbed53749ee622ed0e64f31c1cbf"
+          }
+        },
+        "label": "0"
+      }
+    ]
+  },
+  {
+    "title": "CH 1",
+    "sources": [
+      {
+        "type": "dash",
+        "file": "https://midcache5.rctiplus.id/hdlive2/korselvsina20250404.m3u8",
+        "label": "0"
+      }
+    ]
+  },
+  {
     "title": "BT 1",
     "sources": [
       {
         "type": "dash",
-                    "file": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/tracks-v1a1/mono.ts.m3u8",
-                   
+        "file": "https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/tracks-v1a1/mono.ts.m3u8",
         "label": "0"
       }
     ]
